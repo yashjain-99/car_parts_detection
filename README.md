@@ -63,9 +63,7 @@ To run Car Parts Segmentation, you'll need [Python](https://www.python.org/) 3.6
     torchserve --stop
     ```
 
-For detailed API documentation and usage examples, refer to the [API Documentation](api_docs.md).
-
-**Feel free to reach out to me at your@email.com for any questions or suggestions!**
+**Feel free to reach out to me at yashj133.yj@gmail.com for any questions or suggestions!**
 
 [YOLOv7]: <https://github.com/WongKinYiu/yolov7>
 [TorchServe]: <https://pytorch.org/serve/>
